@@ -1,6 +1,6 @@
 # Django and Angular bootstrap project
 
-Built on top of Django starter project with AngualarJS
+Built on top of Django starter project with AngularJS
 
 To setup, after cloning the project.
 
