@@ -1,0 +1,13 @@
+{
+  "name": "django-angular-bootstrap",
+  "version": "0.0.0",
+  "authors": [
+    "Naveen Singh <contact@naveensingh.net>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-route": "1.4.8",
+    "bootstrap": "latest"
+  }
+}

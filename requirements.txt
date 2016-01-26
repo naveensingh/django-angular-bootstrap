@@ -1,0 +1,3 @@
+# requirements file for django
+
+django==1.9.1
